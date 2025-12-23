@@ -48,6 +48,7 @@ Disciplinas extracurriculares:
 | Ano | Tipo | Título |
 |-----|------|-------|
 | 2025 | Autor | Identificação de sinalização vertical e defeitos em pavimentos rodoviários utilizando visão computacional |
+| 2025 | Coautor | [Análise de confiabilidade em pavimentos aeroportuários utilizando o método de *Rosenblueth*](https://doi.org/10.21526/50rapv.157) |
 | 2024 | Coautor | [Comparação entre modelos 3D e 3D axissimétrico na análise de deformação vertical do subleito sob carga aeroportuária](https://doi.org/10.29327/1430212.49-7) |
 | 2023 | Autor | [*Automated Detection of Defects and Vertical Signs on Roadways Using Images Produced by Drivers*](https://doi.org/10.1520/JTE20220298) |
 | 2023 | Coautor | [Comparação de Arquiteturas de Redes Neurais Convolucionais na Detecção Automática de Defeitos em Imagens de Pavimentos Capturadas com Smartphone](https://www.researchgate.net/publication/357515458_COMPARACAO_DE_ARQUITETURAS_DE_REDES_NEURAIS_CONVOLUCIONAIS_NA_DETECCAO_AUTOMATICA_DE_DEFEITOS_EM_IMAGENS_DE_PAVIMENTOS_CAPTURADAS_COM_SMARTPHONE) |
