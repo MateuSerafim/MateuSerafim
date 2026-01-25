@@ -29,6 +29,7 @@ Desenvolvedor backend com experiência em APIs Web utilizando C# (.NET) e projet
 
 ## Projetos
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuserafim&repo=py-doom-fire)](https://github.com/mateuserafim/py-doom-fire)
 ---
 
 ## Educação
